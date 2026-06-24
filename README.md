@@ -1,6 +1,6 @@
 # clustering-khmer-mounds
 Comparative analysis of four spatial clustering methods (DBSCAN, HDBSCAN, percolation analysis, KDE) applied to LiDAR-derived archaeological mound distributions in the Isaura parcel of the Archaeoscape dataset, Greater Angkor, Cambodia. MA thesis project, ACASA Digital Archaeology.
-#
+
 This repository contains the full analysis pipeline for the MA thesis *Clustering 
 Khmer Mounds* (Amber Jarigsma, VU Amsterdam / UvA, 2026), submitted in partial 
 fulfilment of the MA Archaeology — Digital Archaeology and Heritage programme.
@@ -11,7 +11,7 @@ clustering-khmer-mounds/
 ├── requirements.txt
 ├── LICENSE
 ├── data/
-│   └── README.md              [data acquisition instructions]
+│   └── README.md 
 ├── notebooks/
 │   ├── 01_kde.ipynb
 │   ├── 02_dbscan.ipynb
