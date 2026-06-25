@@ -4,8 +4,11 @@ Comparative analysis of four spatial clustering methods (DBSCAN, HDBSCAN, percol
 This repository contains the full analysis pipeline for the MA thesis *Clustering 
 Khmer Mounds* (Amber Jarigsma, VU Amsterdam / UvA, 2026), submitted in partial 
 fulfilment of the MA Archaeology — Digital Archaeology and Heritage programme.
+
 ---
 ## Repository structure
+
+```
 clustering-khmer-mounds/
 ├── README.md
 ├── requirements.txt
@@ -28,6 +31,8 @@ clustering-khmer-mounds/
     │   ├── contextual_overlay/
     │   └── evaluation/
     └── tables/
+```
+
 ---
 ## Getting started
 
