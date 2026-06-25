@@ -10,7 +10,6 @@ included in the original Archaeoscape dataset, clipped to the extent of
 mound, temple, hydrology and void polygons for that parcel.
 
 **Source**: derived from `features.gpkg`, available via https://archaeoscape.ai/data/2024/  
-**Place at**: `data/isaura_features.gpkg`
 
 ## 2. `08_isaura_extent_parcels.gpkg`
 A parcel boundary file derived from the `parcels.gpkg` file included in the 
@@ -18,7 +17,6 @@ original Archaeoscape dataset. It defines the spatial extent of the Isaura parce
 and is used to set figure axes and clip the KDE grid across all notebooks.
 
 **Source**: derived from `parcels.gpkg`, also available via https://archaeoscape.ai/data/2024/  
-**Place at**: `data/08_isaura_extent_parcels.gpkg`
 
 ---
 
