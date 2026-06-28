@@ -16,7 +16,8 @@ clustering-khmer-mounds/
 ├── data/
 │   └── README.md 
 ├── notebooks/
-│   ├── 01_kde.ipynb
+│   ├── 00_data_checks.ipynb
+    ├── 01_kde.ipynb
 │   ├── 02_dbscan.ipynb
 │   ├── 03_hdbscan.ipynb
 │   ├── 04_percolation.ipynb
