@@ -75,13 +75,13 @@ jupyter notebook
 
 | Notebook | Method | Key parameters |
 |---|---|---|
-| 00_Data_Checks | Data checks and preliminary spatial characterisation | CRS verification, coordinate unit confirmation, NND statistics |
-| 01_KDE | Kernel Density Estimation | h = 120m, 360m, 500m; thresholds p75/p90/p95 |
-| 02_DBSCAN | DBSCAN | ε = 120m, 200m, 360m; min_samples = 4 |
-| 03_HDBSCAN | HDBSCAN | min_cluster_size = 4, 10, 20; min_samples = 4 |
-| 04_Percolation | Percolation analysis | r sweep 50–3000m, 200 steps; r_c = 325m |
-| 05_Contextual_Overlay | Overlay mapping | Temple and hydrology proximity |
-| 06_Evaluation | Cross-method evaluation | DBCV, sensitivity CV%, TDR |
+| 00_data_checks | Data checks and preliminary spatial characterisation | CRS verification, coordinate unit confirmation, NND statistics |
+| 01_kde | Kernel Density Estimation | h = 120m, 360m, 500m; thresholds p75/p90/p95 |
+| 02_dbscan | DBSCAN | ε = 120m, 200m, 360m; min_samples = 4 |
+| 03_hdbscan | HDBSCAN | min_cluster_size = 4, 10, 20; min_samples = 4 |
+| 04_percolation | Percolation analysis | r sweep 50–3000m, 200 steps; r_c = 325m |
+| 05_contextual_overlay | Overlay mapping | Temple and hydrology proximity |
+| 06_evaluation | Cross-method evaluation | DBCV, sensitivity CV%, TDR |
 
 ---
 
