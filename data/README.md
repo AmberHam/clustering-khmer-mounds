@@ -1,22 +1,22 @@
 # Data
 
 The data files used in this analysis cannot be included in this repository due to 
-EFEO licensing restrictions. Two files are required to run the notebooks:
+EFEO licensing restrictions. Two files are required to run the notebooks: 
 
-## 1. `isaura_features.gpkg`
-The primary input dataset. This file was derived from the `features.gpkg` file 
-included in the original Archaeoscape dataset, clipped to the extent of 
-`08_isaura_extent_parcels.gpkg` to isolate the Isaura parcel. It contains 
-mound, temple, hydrology and void polygons for that parcel.
-
-**Source**: derived from `features.gpkg`, available via https://archaeoscape.ai/data/2024/  
-
-## 2. `08_isaura_extent_parcels.gpkg`
+## 1. `08_isaura_extent_parcels.gpkg`
 A parcel boundary file derived from the `parcels.gpkg` file included in the 
 original Archaeoscape dataset. It defines the spatial extent of the Isaura parcel 
 and is used to set figure axes and clip the KDE grid across all notebooks.
 
 **Source**: derived from `parcels.gpkg`, also available via https://archaeoscape.ai/data/2024/  
+
+## 2. `isaura_features.gpkg`
+The primary input dataset. This file was derived from the `features.gpkg` file 
+included in the original Archaeoscape dataset, clipped to the extent of 
+`08_isaura_extent_parcels.gpkg` to isolate the Isaura parcel. It contains 
+mound, temple, hydrology and void polygons for that parcel.
+
+**Source**: derived from `features.gpkg`, available via https://archaeoscape.ai/data/2024/ 
 
 ---
 
