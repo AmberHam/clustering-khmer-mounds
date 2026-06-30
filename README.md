@@ -61,10 +61,6 @@ in this repository. See `data/README.md` for acquisition instructions.
 
 Launch Jupyter and run the notebooks in order (00 through 06). Notebook 00 performs data checks and preliminary spatial characterisation and is the recommended starting point. All notebooks load data independently and can be run in any order, though the numbered sequence reflects the logical progression of the analysis.
 
-```bash
-jupyter notebook
-```
-
 ---
 
 ## Methods summary
