@@ -79,8 +79,8 @@ Launch Jupyter and run the notebooks in order (00 through 06). Notebook 00 perfo
 
 ## Dataset
 
-Perron, R., et al. (2024). Archaeoscape: Bringing aerial archaeology to the age of 
-deep learning. NeurIPS 2024. Data distributed under EFEO licence.
+Perron, Y., Sydorov, V., Wijker, A. P., Evans, D., Pottier, C., & Landrieu, L. (2024). Archaeoscape: Bringing aerial archaeology to the age of deep learning. In Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) Track on Datasets and Benchmarks.
+Data distributed under EFEO licence.
 
 Data attribution: © École française d'Extrême-Orient (EFEO).
 
