@@ -55,8 +55,7 @@ pip install -r requirements.txt
 ### 3. Obtain the data
 
 The Archaeoscape dataset is distributed under an EFEO licence and cannot be included 
-in this repository. See `data/README.md` for acquisition instructions. Once obtained, 
-place the file `isaura_features.gpkg` in the `data/` directory.
+in this repository. See `data/README.md` for acquisition instructions. 
 
 ### 4. Run the notebooks
 
